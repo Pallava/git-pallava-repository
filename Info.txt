@@ -5,6 +5,6 @@ master repository to branch
 
 
 
-master repository
+branch repository
 
 thank you
